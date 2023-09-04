@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-g-de-oliveira-a0404a194](https://my.matterport.com/show/?m=KboyiysWHqN)"> PAVIMENTO BIM </a>
+  <a href="[https://my.matterport.com/show/?m=KboyiysWHqN]">PAVIMENTO BIM</a>
 </h1>
 Sistema de gerenciamento remoto para aplicações em BIM
 
